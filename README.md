@@ -81,7 +81,7 @@ A full-stack web application built with Python Flask, acting as a mini version o
 I am always open to collaborating on innovative AI projects, contributing to open-source initiatives, or discussing opportunities in software engineering and artificial intelligence.
 
 <p align="center">
-  <a href="https://keshava8769.github.io/Keshava8769/">🌐 Portfolio</a> •
+  <a href=" https://keshava8769.github.io/Keshava8769/">🌐 Portfolio</a> •
   <a href="mailto:bairu.chennakeshava05@gmail.com">📧 bairu.chennakeshava05@gmail.com</a> •
   <a href="https://www.linkedin.com/in/bairu-chenna-keshava/">💼 LinkedIn</a>
 </p>
